@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="533" height="533" viewBox="0 0 533 533">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.56" cy="0.603" r="1.163" gradientTransform="matrix(0.385, -0.923, 0.45, 0.188, 0.073, 1.007)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f27c7c"/>
+      <stop offset="1" stop-color="#ffd340"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_37" data-name="Grupo 37" transform="translate(-1600 2846)">
+    <path id="Caminho_16" data-name="Caminho 16" d="M-5.2-31.878,19.288-.693H-1.04L-17.9-22.176A84.8,84.8,0,0,1-62.717-9.7q-37.653,0-63.178-25.063T-151.421-96.1q0-37.191,24.717-62.485t62.6-25.295A87.177,87.177,0,0,1-20.1-172.326a84.125,84.125,0,0,1,31.762,31.647,86.55,86.55,0,0,1,11.55,43.89Q23.215-58.674-5.2-31.878ZM-15.361-44.814Q6.121-66.066,6.121-96.327t-20.79-50.82q-20.79-20.559-49.665-20.559t-49.318,20.79Q-134.1-126.126-134.1-95.98t20.79,50.127q20.79,19.981,49.434,19.981A69.918,69.918,0,0,0-28.3-35.343l-36.96-46.893h20.1Zm94.71-134.9h32.571V-13.86h-16.4V-163.548h-26.1Z" transform="translate(1886.421 -2487.124)" fill="url(#radial-gradient)"/>
+    <g id="Grupo_36" data-name="Grupo 36">
+      <g id="Retângulo_37" data-name="Retângulo 37" transform="translate(1600 -2846)" fill="none" stroke="#8154a7" stroke-width="49" stroke-dasharray="3 5">
+        <rect width="533" height="533" rx="266.5" stroke="none"/>
+        <rect x="24.5" y="24.5" width="484" height="484" rx="242" fill="none"/>
+      </g>
+      <g id="Retângulo_36" data-name="Retângulo 36" transform="translate(1609 -2837)" fill="none" stroke="#f27c7c" stroke-width="49" stroke-dasharray="3 5">
+        <rect width="515" height="515" rx="257.5" stroke="none"/>
+        <rect x="24.5" y="24.5" width="466" height="466" rx="233" fill="none"/>
+      </g>
+      <g id="Retângulo_38" data-name="Retângulo 38" transform="translate(1609 -2837)" fill="none" stroke="#f5e8ff" stroke-width="49" stroke-dasharray="3 5">
+        <rect width="515" height="515" rx="249" stroke="none"/>
+        <rect x="24.5" y="24.5" width="466" height="466" rx="224.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

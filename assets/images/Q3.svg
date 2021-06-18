@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="533" height="533" viewBox="0 0 533 533">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.509" gradientTransform="matrix(-0.775, -0.632, 1.451, -1.778, 0.162, 1.705)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#512e74"/>
+      <stop offset="1" stop-color="#f27c7c"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_34" data-name="Grupo 34" transform="translate(-2646 3270)">
+    <path id="Caminho_12" data-name="Caminho 12" d="M-5.2-31.878,19.288-.693H-1.04L-17.9-22.176A84.8,84.8,0,0,1-62.717-9.7q-37.653,0-63.178-25.063T-151.421-96.1q0-37.191,24.717-62.485t62.6-25.295A87.177,87.177,0,0,1-20.1-172.326a84.125,84.125,0,0,1,31.762,31.647,86.55,86.55,0,0,1,11.55,43.89Q23.215-58.674-5.2-31.878ZM-15.361-44.814Q6.121-66.066,6.121-96.327t-20.79-50.82q-20.79-20.559-49.665-20.559t-49.318,20.79Q-134.1-126.126-134.1-95.98t20.79,50.127q20.79,19.981,49.434,19.981A69.918,69.918,0,0,0-28.3-35.343l-36.96-46.893h20.1Zm82.467-96.558H50.242q4.62-20.559,17.672-31.532t31.878-10.973a47.683,47.683,0,0,1,32.8,12.474q13.976,12.474,13.975,30.261,0,21.483-21.252,33.957,14.553,6.006,22.522,17.9a45.743,45.743,0,0,1,7.969,25.988q0,21.945-16.054,37.768T99.214-9.7Q77.5-9.7,63.409-22.06T44.7-58.212h16.17q4.389,16.4,13.513,24.37t25.757,7.97q16.632,0,27.951-10.626a34.664,34.664,0,0,0,11.319-26.334,30.359,30.359,0,0,0-12.474-25.294Q114.46-97.713,90.667-98.175v-15.246q17.094,0,27.835-7.854t10.742-19.52a24.928,24.928,0,0,0-8.662-19.4,30.287,30.287,0,0,0-20.905-7.738q-12.243,0-19.751,6.583T67.105-141.372Z" transform="translate(2910.42 -2911.124)" fill="url(#radial-gradient)"/>
+    <g id="Grupo_31" data-name="Grupo 31">
+      <g id="Retângulo_30" data-name="Retângulo 30" transform="translate(2655 -3261)" fill="none" stroke="#f27c7c" stroke-width="49" stroke-dasharray="3 5">
+        <rect width="515" height="515" rx="257.5" stroke="none"/>
+        <rect x="24.5" y="24.5" width="466" height="466" rx="233" fill="none"/>
+      </g>
+      <g id="Retângulo_32" data-name="Retângulo 32" transform="translate(2646 -3270)" fill="none" stroke="#8154a7" stroke-width="49" stroke-dasharray="3 5">
+        <rect width="533" height="533" rx="266.5" stroke="none"/>
+        <rect x="24.5" y="24.5" width="484" height="484" rx="242" fill="none"/>
+      </g>
+      <g id="Retângulo_31" data-name="Retângulo 31" transform="translate(2655 -3261)" fill="none" stroke="#f5e8ff" stroke-width="49" stroke-dasharray="3 5">
+        <rect width="515" height="515" rx="249" stroke="none"/>
+        <rect x="24.5" y="24.5" width="466" height="466" rx="224.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
